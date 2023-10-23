@@ -1,5 +1,5 @@
 .mainMenu {
-    background-image: url("images/spaghetti_v2.jpg");
+    background-image: url("images/spaghetti_with_logo.jpg");
     background-color: #1B2223;
     background-size: cover;
     background-position: center;
@@ -87,7 +87,7 @@
 
 /*druha stranka o nas*/
 
-.oNas {
+.oNas, .kontakt {
     background-color: #1B2223;
     background-size: cover;
     background-position: center;
@@ -105,6 +105,10 @@
     background-attachment: scroll;
     background-position: center;
     background-size: cover;
+}
+
+.bold {
+    font-weight: bold;
 }
 
 .whiteColor {
